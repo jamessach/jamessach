@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jamessach
 - 👀 I’m interested in java, lua
 - 🌱 I’m currently learning c++, sql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 discord james#7275
 
 <!---
 jamessach/jamessach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
